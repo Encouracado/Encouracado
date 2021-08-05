@@ -17,6 +17,7 @@
 - 💞️ React
 - 💞️ Next
 - 💞️ Typescript
+- 💞️ Material UI
 - 💞️ SASS
 - 💞️ Styled-components
 - 💞️ API's
